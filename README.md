@@ -1,6 +1,6 @@
 ## Description
 
-GoodPaid backend
+GoodPaid backend code: Nest
 
 ## Installation
 
